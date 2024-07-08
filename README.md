@@ -11,4 +11,4 @@ For example, if you would like to make a *Connect Five* game on a 6x10 board:
  **Questions asked during the interview**:
  - How to make it 3-player?
  - How to add an undo button?
- - How to efficiently organize data id the board was huge?
+ - How to efficiently organize data if the board was huge?
